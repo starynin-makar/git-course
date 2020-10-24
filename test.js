@@ -1,5 +1,5 @@
 // console.log('ewrrewreewr')
-// const color = '12';
+// const color = '4';
 // const obj = {a: 42}
 // obj.name = 'erek'
 // console.log(obj)
@@ -14,4 +14,6 @@
 function log() {
     console.log(this)
 }
-console.log(log)
+// console.log(log)
+let a = 12
+console.log('test 2')
