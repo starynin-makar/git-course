@@ -16,4 +16,4 @@ function log() {
 }
 // console.log(log)
 let a = 12
-console.log('test 2')
+console.log('test 2!!!!!!!!!!!!')
